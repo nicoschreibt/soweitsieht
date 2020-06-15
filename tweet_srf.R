@@ -8,12 +8,10 @@ require('filesstrings')
 setwd("/home/pi/R/projects")
 datum <- format(Sys.Date(),"%d_%b_%Y")
 datum_leerschlag <- format(Sys.Date(),"%d %b %Y")
-account <- "nicolas.saameli@stud.unilu.ch"
-passwort <- "seetheworld"
-ckey <- "zr8mWNvmSzzMlEWDdOqmkccHj"
-csecret <- "fIgvRIIi4dRYHtd33OQ8CVauh6hJy8ieX1Lm1PKTU6b5zHdPvB"
-atoken <- "1268106017457483776-XoopnGcv6oC7sjm3UWdLkZl03Yj7kv"
-asecret <- "b8rVr0ytn7JfHCge8hNJV5QXS02MNeDA4XafzFPBNBdrV"
+ckey <- "xxx"
+csecret <- "xxx"
+atoken <- "xxx"
+asecret <- "xxx"
 setup_twitter_oauth(ckey, csecret, atoken, asecret)
 2
 datum_srf <- paste0("srf_",datum)
