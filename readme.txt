@@ -1,1 +1,1 @@
-Dies hier sind nur die Twitterbots. Den zugehörigen Webscraper gibts unter /webscraper.
+Dies hier sind nur die Skripts zu @soweitsieht. Den zugehörigen Webscraper gibts unter /webscraper.
